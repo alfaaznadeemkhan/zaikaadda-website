@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+
+# Replace YOUR-ZAIKAADDA-DOMAIN with the real published domain before launch.
+Sitemap: https://YOUR-ZAIKAADDA-DOMAIN/sitemap.xml

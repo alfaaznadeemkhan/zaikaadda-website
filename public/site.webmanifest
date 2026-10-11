@@ -1,0 +1,13 @@
+{
+  "name": "ZaikaAdda — Har Bite Mein Zaika",
+  "short_name": "ZaikaAdda",
+  "description": "Explore ZaikaAdda's food menu in Barabanki, Uttar Pradesh.",
+  "lang": "en-IN",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffaf3",
+  "theme_color": "#fffaf3",
+  "icons": [
+    { "src": "/images/brand-logo.webp", "sizes": "any", "type": "image/webp", "purpose": "any maskable" }
+  ]
+}
